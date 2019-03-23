@@ -1,21 +1,21 @@
-def addition(num1, num2)
+def addition(1+1)
 end
 
-def subtraction(num1, num2)
+def subtraction(9-2)
 end
 
-def division(num1, num2)
+def division(9/2)
 end
 
-def multiplication(num1, num2)
+def multiplication(1*3)
 end
 
-def modulo(num1, num2)
+def modulo(5 % 3)
 end
 
-def square_root(num)
+def square_root(9)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  __ + (( __ * __ ) / __ )
+  #Hint: 98 + 59(( 13 * 8 ) / 2 )
 end
