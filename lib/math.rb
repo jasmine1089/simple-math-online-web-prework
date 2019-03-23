@@ -4,7 +4,7 @@ end
 def subtraction("10-5")
 end
 
-def division("9/2")
+def division("50/2")
 end
 
 def multiplication(1*3)
