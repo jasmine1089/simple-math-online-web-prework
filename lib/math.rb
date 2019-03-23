@@ -7,7 +7,7 @@ end
 def division("50/2")
 end
 
-def multiplication(1*3)
+def multiplication("40*30")
 end
 
 def modulo(5 % 3)
