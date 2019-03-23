@@ -10,7 +10,7 @@ end
 def multiplication("40*30")
 end
 
-def modulo(5 % 3)
+def modulo("34 % 5")
 end
 
 def square_root(9)
