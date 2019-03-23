@@ -16,6 +16,6 @@ end
 def square_root("81")
 end
 
-def order_of_operation("7, 43, 23, 83)
+def order_of_operation("7, 43, 23, 83")
   
 end
