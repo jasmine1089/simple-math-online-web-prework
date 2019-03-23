@@ -1,10 +1,10 @@
-def addition(1+1)
+def addition("1+1")
 end
 
-def subtraction(9-2)
+def subtraction("9-2")
 end
 
-def division(9/2)
+def division("9/2")
 end
 
 def multiplication(1*3)
