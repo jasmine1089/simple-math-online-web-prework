@@ -1,4 +1,4 @@
-def addition("1+1")
+def addition("5+4")
 end
 
 def subtraction("9-2")
